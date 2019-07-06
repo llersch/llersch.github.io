@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Computer Science, [UFRGS](http://www.ufrgs.com/) (Brazil), 2013
+* MSc. in Computer Science, [TU Kaiserslautern](http://www.uni-kl.de/startseite/) (Germany), 2015
+* Ph.D in Computer Science, [TU Dresden](https://tu-dresden.de/) (Germany), 2015
 
 Work experience
 ======
