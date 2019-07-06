@@ -13,19 +13,14 @@ Education
 ======
 * BSc. in Computer Science, [UFRGS](http://www.ufrgs.com/) (Brazil), 2013
 * MSc. in Computer Science, [TU Kaiserslautern](http://www.uni-kl.de/startseite/) (Germany), 2015
-* Ph.D in Computer Science, [TU Dresden](https://tu-dresden.de/) (Germany), 2015
+* Ph.D in Computer Science, [TU Dresden](https://tu-dresden.de/) (Germany), 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012: Research Assistant
+  * [DBIS](http://lgis.informatik.uni-kl.de/cms/index.php?id=3) at [TU Kaiserslautern](http://www.uni-kl.de/startseite/)
+  * Duties included: implementing lock-free database buffer manager
+  * Supervisor: Theo Härder
   
 Skills
 ======
