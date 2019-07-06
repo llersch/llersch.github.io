@@ -25,13 +25,11 @@ Work experience
 Skills
 ======
 * Database internals
-* C/C++
+* Programming: C/C++, Java, C#
+* Scripting: Bash, Python
 * Linux
-* Python
-* Bash
 * gnuplot
-* Java
-* C#
+* SQL
 
 Publications
 ======
