@@ -25,7 +25,7 @@ author_profile: true
 ### 2017
 
 ### 2016
-  *   Caetano Sauer, Lucas Lersch, Theo Härder, Goetz Graefe:
+  *   Caetano Sauer, Lucas Lersch, Theo Härder, Goetz Graefe:  
       **Update Propagation Strategies for High-Performance OLTP**. ADBIS 2016: 152-165
-  * 	Lucas Lersch, Caetano Sauer, Theo Härder:
+  * 	Lucas Lersch, Caetano Sauer, Theo Härder:  
       **Decoupling Persistence Services from DBMS Buffer Management**. GvD 2016: 80-85
