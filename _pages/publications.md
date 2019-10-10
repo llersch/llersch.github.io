@@ -19,10 +19,20 @@ author_profile: true
 --->
 
 ### 2019
-
+  * 	Lucas Lersch, Wolfgang Lehner, Ismail Oukid:  
+    **Persistent Buffer Management with Optimistic Consistency**. DaMoN 2019: 14:1-14:3
+    
 ### 2018
+  * Ismail Oukid, Lucas Lersch:  
+    **On the Diversity of Memory and Storage Technologies**. Datenbank-Spektrum 18(2): 121-127 (2018)
+  * Philipp Götze, Alexander van Renen, Lucas Lersch, Viktor Leis, Ismail Oukid:  
+    **Data Management on Non-Volatile Memory: A Perspective**. Datenbank-Spektrum 18(3): 171-182 (2018)
 
 ### 2017
+  * Lucas Lersch, Ismail Oukid, Ivan Schreter, Wolfgang Lehner:  
+    **Rethinking DRAM Caching for LSMs in an NVRAM Environment**. ADBIS 2017: 326-340
+  * Lucas Lersch, Ismail Oukid, Wolfgang Lehner, Ivan Schreter:  
+    **An analysis of LSM caching in NVRAM**. DaMoN 2017: 9:1-9:5
 
 ### 2016
   *   Caetano Sauer, Lucas Lersch, Theo Härder, Goetz Graefe:  
