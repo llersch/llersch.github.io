@@ -35,7 +35,7 @@ author_profile: true
     **An analysis of LSM caching in NVRAM**. DaMoN 2017: 9:1-9:5
 
 ### 2016
-  *   Caetano Sauer, Lucas Lersch, Theo Härder, Goetz Graefe:  
-      **Update Propagation Strategies for High-Performance OLTP**. ADBIS 2016: 152-165
-  * 	Lucas Lersch, Caetano Sauer, Theo Härder:  
-      **Decoupling Persistence Services from DBMS Buffer Management**. GvD 2016: 80-85
+  * Caetano Sauer, Lucas Lersch, Theo Härder, Goetz Graefe:  
+    **Update Propagation Strategies for High-Performance OLTP**. ADBIS 2016: 152-165
+  * Lucas Lersch, Caetano Sauer, Theo Härder:  
+    **Decoupling Persistence Services from DBMS Buffer Management**. GvD 2016: 80-85
