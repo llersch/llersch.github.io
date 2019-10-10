@@ -19,7 +19,7 @@ author_profile: true
 --->
 
 ### 2019
-  * 	Lucas Lersch, Wolfgang Lehner, Ismail Oukid:  
+  * Lucas Lersch, Wolfgang Lehner, Ismail Oukid:  
     **Persistent Buffer Management with Optimistic Consistency**. DaMoN 2019: 14:1-14:3
     
 ### 2018
