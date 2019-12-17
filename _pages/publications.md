@@ -19,6 +19,8 @@ author_profile: true
 --->
 
 ### 2019
+  * Lucas Lersch, Xiangpeng Hao, Ismail Oukid, Tianzheng Wang, Thomas Willhalm:  
+    [**Evaluating Persistent Memory Range Indexes**](http://www.vldb.org/pvldb/vol13/p574-lersch.pdf). PVLDB 13(4): 574-587 (2019)
   * Lucas Lersch, Wolfgang Lehner, Ismail Oukid:  
     **Persistent Buffer Management with Optimistic Consistency**. DaMoN 2019: 14:1-14:3
     
