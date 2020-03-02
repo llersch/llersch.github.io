@@ -14,8 +14,8 @@ Education
 * Ph.D in Computer Science, [TU Dresden](https://tu-dresden.de/) (Germany), 2020 (expected)
   * Supervised by [Prof. Dr.-Ing. Wolfgang Lehner](https://wwwdb.inf.tu-dresden.de/our-group/team/wolfgang-lehner/)
   * Together with [SAP HANA Database Campus](https://www.sap.com/germany/products/hana/research.html)
-* MSc. in Computer Science, [TU Kaiserslautern](http://www.uni-kl.de/startseite/) (Germany), 2015
-* BSc. in Computer Science, [UFRGS](http://www.ufrgs.com/) (Brazil), 2013
+* MSc. in Computer Science, [TU Kaiserslautern](https://www.uni-kl.de/en/) (Germany), 2015
+* BSc. in Computer Science, [UFRGS](http://www.ufrgs.br/english/home) (Brazil), 2013
 
 Work experience
 ======
