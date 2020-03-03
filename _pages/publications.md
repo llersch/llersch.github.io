@@ -26,7 +26,7 @@ author_profile: true
     
 ### 2018
   * Ismail Oukid, Lucas Lersch:  
-    **On the Diversity of Memory and Storage Technologies**. Datenbank-Spektrum 18(2): 121-127 (2018)
+    [**On the Diversity of Memory and Storage Technologies**](https://arxiv.org/pdf/1908.07431.pdf). Datenbank-Spektrum 18(2): 121-127 (2018)
   * Philipp Götze, Alexander van Renen, Lucas Lersch, Viktor Leis, Ismail Oukid:  
     **Data Management on Non-Volatile Memory: A Perspective**. Datenbank-Spektrum 18(3): 171-182 (2018)
 
