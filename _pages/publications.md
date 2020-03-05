@@ -18,6 +18,10 @@ author_profile: true
 {% endfor %}
 --->
 
+### 2020
+  * Lucas Lersch, Ivan Schreter, Ismail Oukid, Wolfgang Lehner:
+    **Enabling Low Tail Latency in Multicore Key-Value Stores**. PVLDB 13(7): (to appear)
+    
 ### 2019
   * Lucas Lersch, Xiangpeng Hao, Ismail Oukid, Tianzheng Wang, Thomas Willhalm:  
     [**Evaluating Persistent Memory Range Indexes**](http://www.vldb.org/pvldb/vol13/p574-lersch.pdf). PVLDB 13(4): 574-587 (2019)
