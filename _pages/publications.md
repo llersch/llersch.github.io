@@ -19,7 +19,7 @@ author_profile: true
 --->
 
 ### 2020
-  * Lucas Lersch, Ivan Schreter, Ismail Oukid, Wolfgang Lehner:
+  * Lucas Lersch, Ivan Schreter, Ismail Oukid, Wolfgang Lehner:  
     **Enabling Low Tail Latency in Multicore Key-Value Stores**. PVLDB 13(7): (to appear)
     
 ### 2019
