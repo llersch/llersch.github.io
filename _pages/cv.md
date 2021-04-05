@@ -19,10 +19,10 @@ Education
 
 Work experience
 ======
-* [Nov 2020 - Current] Software Engineer at Amazon/AWS, Germany
+* Nov 2020 - Current: **Software Engineer at Amazon/AWS, Germany**
   * Redshift Storage team
 
-* [Mar 2016 - Oct 2020] PhD Candidate at TU Dresden & SAP SE, Walldorf, Germany
+* Mar 2016 - Oct 2020: **PhD Candidate at TU Dresden & SAP SE, Walldorf, Germany**
   * Research on storage systems for persistent memory.
 
 * [Feb 2012 - Feb 2013][Oct 2013 - Feb 2016] Research Assistant at [TU Kaiserslautern](https://www.uni-kl.de/en/), Kaiserslautern, Germany
