@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, [TU Dresden](https://tu-dresden.de/) (Germany), 2020 (expected)
+* Ph.D in Computer Science, [TU Dresden](https://tu-dresden.de/) (Germany), 2020
   * Supervised by [Prof. Dr.-Ing. Wolfgang Lehner](https://wwwdb.inf.tu-dresden.de/our-group/team/wolfgang-lehner/)
   * Together with [SAP HANA Database Campus](https://www.sap.com/germany/products/hana/research.html)
 * MSc. in Computer Science, [TU Kaiserslautern](https://www.uni-kl.de/en/) (Germany), 2015
@@ -19,7 +19,10 @@ Education
 
 Work experience
 ======
-* [Mar 2016 - Current] PhD Candidate at TU Dresden & SAP SE, Walldorf, Germany
+* [Nov 2020 - Current] Software Engineer at Amazon/AWS, Germany
+  * Redshift Storage team
+
+* [Mar 2016 - Oct 2020] PhD Candidate at TU Dresden & SAP SE, Walldorf, Germany
   * Research on storage systems for persistent memory.
 
 * [Feb 2012 - Feb 2013][Oct 2013 - Feb 2016] Research Assistant at [TU Kaiserslautern](https://www.uni-kl.de/en/), Kaiserslautern, Germany
