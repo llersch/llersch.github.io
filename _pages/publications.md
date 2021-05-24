@@ -18,6 +18,10 @@ author_profile: true
 {% endfor %}
 --->
 
+### 2021
+  * Lucas Lersch:
+    [**Leveraging Non-Volatile Memory in Modern Storage Management Architectures**](https://tud.qucosa.de/api/qucosa%3A74887/attachment/ATT-0/). PhD Dissertation
+
 ### 2020
   * Lucas Lersch, Ivan Schreter, Ismail Oukid, Wolfgang Lehner:  
     [**Enabling Low Tail Latency on Multicore Key-Value Stores**](http://www.vldb.org/pvldb/vol13/p1091-lersch.pdf). PVLDB 13(7): 1091-1104 (2020)
