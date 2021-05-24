@@ -19,7 +19,7 @@ author_profile: true
 --->
 
 ### 2021
-  * Lucas Lersch:
+  * Lucas Lersch:  
     [**Leveraging Non-Volatile Memory in Modern Storage Management Architectures**](https://tud.qucosa.de/api/qucosa%3A74887/attachment/ATT-0/). PhD Dissertation
 
 ### 2020
