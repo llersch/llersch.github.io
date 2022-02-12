@@ -32,7 +32,7 @@ Inspired by [Hisham H. Muhammad ](http://hisham.hm/artists_ive_seen_live)(author
 * Scorpions, 13.05.2012, Frankfurt, Germany
 * Ozzy Osbourne, 20.06.2012, Mannheim, Germany
   * Cancelled last minute. Watched Black Label Society opening still.
-* Blackmore's Night, 16.07.2012, Heidelberg, Brazil
+* Blackmore's Night, 16.07.2012, Heidelberg, Germany
 * Deep Purple, 22.11.2012, Frankfurt, Germany
   * Opening: Edguy
 * Turisas, 17.03.2013, Porto Alegre, Brazil
