@@ -21,7 +21,7 @@ Work experience
 ======
 * Nov 2020 - Current: **Software Engineer at Amazon/AWS, Germany**
   * Amazon Redshift
-  * Data plane team
+  * Data Plane team
   * Storage and data management
 
 * Mar 2016 - Oct 2020: **PhD Candidate at TU Dresden & SAP SE, Walldorf, Germany**
