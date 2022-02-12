@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Concerts
-======
 Inspired by [Hisham H. Muhammad ](http://hisham.hm/artists_ive_seen_live)(author of [`htop`](https://htop.dev/)), a list of live music concerts I have attended:
 
 * Iron Maiden, 05.03.2008, Porto Alegre, Brazil
