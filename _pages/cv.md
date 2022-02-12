@@ -44,9 +44,10 @@ Work experience
 Skills
 ======
 * Database internals
+* Distributed systems
 * Programming: C/C++, Python, SQL, C#, Java, VBA
-* Databases: SAP HANA, RocksDB, memcached, PostgreSQL, DB2, SQLServer, MySQL
-* Miscellaneous: shell script, Jupyter, gnuplot, gdb, perf, awk
+* Databases: Amazon Redshift, SAP HANA, RocksDB, memcached, PostgreSQL, DB2, SQLServer, MySQL
+* Miscellaneous: AWS, shell script, Jupyter, gnuplot, gdb, perf, awk, Jenkins
 
 Service
 ======
