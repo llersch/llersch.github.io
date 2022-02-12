@@ -46,6 +46,11 @@ Skills
 * Databases: SAP HANA, RocksDB, memcached, PostgreSQL, DB2, SQLServer, MySQL
 * Miscellaneous: shell script, Jupyter, gnuplot, gdb, perf, awk
 
+Service
+======
+* Reviewer: SIGMOD 2022
+* External reviewer: EDBT 2017, ICDE 2017, EDBT 2018, SIGMOD 2018, APSys 2018, Transactions on Computers 2019, VLDB 2022
+
 <!--
 Publications
 ======
