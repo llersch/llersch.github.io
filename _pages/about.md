@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a software engineer at Amazon Web Services working on the Amazon Redshift team since November 2020.
+I am a software engineer at Amazon Web Services working on storage management in the Amazon Redshift team since November 2020.
 
 Prior to that I concluded my PhD degree at the [Database Systems Group](https://wwwdb.inf.tu-dresden.de/) at [TU Dresden](https://tu-dresden.de/) supervised by [Prof. Dr.-Ing. Wolfgang Lehner](https://wwwdb.inf.tu-dresden.de/our-group/team/wolfgang-lehner/). During my PhD I worked in close collaboration with [SAP SE](https://www.sap.com/index.html) as part of the [SAP HANA Database Campus](https://www.sap.com/germany/products/hana/research.html).
 
