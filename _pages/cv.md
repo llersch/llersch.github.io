@@ -19,9 +19,10 @@ Education
 
 Work experience
 ======
-* Nov 2020 - Current: **Software Engineer at Amazon/AWS, Germany**
+* Oct 2022 - Current: **Software Engineer at Amazon/AWS, California, USA**  
+Nov 2020 - Sep 2022: **Software Engineer at Amazon/AWS, Germany**
   * Amazon Redshift
-  * Data Plane team
+  * Data plane
   * Storage and data management
 
 * Mar 2016 - Oct 2020: **PhD Candidate at TU Dresden & SAP SE, Walldorf, Germany**
