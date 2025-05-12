@@ -52,7 +52,7 @@ Skills
 
 Service
 ======
-* Reviewer: SIGMOD 2022, VLDB 2023
+* Reviewer: SIGMOD 2022, VLDB 2023, SIGMOD 2025
 * External reviewer: EDBT 2017, ICDE 2017, EDBT 2018, SIGMOD 2018, APSys 2018, Transactions on Computers 2019, VLDB 2022
 
 <!--
