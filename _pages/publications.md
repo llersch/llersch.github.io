@@ -18,6 +18,10 @@ author_profile: true
 {% endfor %}
 --->
 
+### 2025
+  * Kira Duwe, Angelos-Christos Anadiotis, Andrew Lamb, Lucas Lersch, Boaz Leskes, Daniel Ritter, Pinar Tozun:
+    [**The Five-Minute Rule for the Cloud: Caching in Analytics Systems**](https://vldb.org/cidrdb/papers/2025/p4-duwe.pdf). CIDR 2025
+
 ### 2021
   * Lucas Lersch:  
     [**Leveraging Non-Volatile Memory in Modern Storage Management Architectures**](https://tud.qucosa.de/api/qucosa%3A74887/attachment/ATT-0/). PhD Dissertation
