@@ -19,7 +19,7 @@ author_profile: true
 --->
 
 ### 2025
-  * Kira Duwe, Angelos-Christos Anadiotis, Andrew Lamb, Lucas Lersch, Boaz Leskes, Daniel Ritter, Pinar Tozun:
+  * Kira Duwe, Angelos-Christos Anadiotis, Andrew Lamb, Lucas Lersch, Boaz Leskes, Daniel Ritter, Pinar Tozun:  
     [**The Five-Minute Rule for the Cloud: Caching in Analytics Systems**](https://vldb.org/cidrdb/papers/2025/p4-duwe.pdf). CIDR 2025
 
 ### 2021
@@ -40,7 +40,7 @@ author_profile: true
   * Ismail Oukid, Lucas Lersch:  
     [**On the Diversity of Memory and Storage Technologies**](https://arxiv.org/pdf/1908.07431.pdf). Datenbank-Spektrum 18(2): 121-127 (2018)
   * Philipp Götze, Alexander van Renen, Lucas Lersch, Viktor Leis, Ismail Oukid:  
-    **Data Management on Non-Volatile Memory: A Perspective**. Datenbank-Spektrum 18(3): 171-182 (2018)
+    [**Data Management on Non-Volatile Memory: A Perspective**](https://db.in.tum.de/~vanrenen/papers/nvm_survey.pdf?lang=en). Datenbank-Spektrum 18(3): 171-182 (2018)
 
 ### 2017
   * Lucas Lersch, Ismail Oukid, Ivan Schreter, Wolfgang Lehner:  
