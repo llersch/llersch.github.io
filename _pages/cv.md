@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Oct 2022 - Current: **Software Engineer at Amazon Web Services, California, USA**
-Nov 2020 - Sep 2022: **Software Engineer at Amazon Web Services, Germany**
+  Nov 2020 - Sep 2022: **Software Engineer at Amazon Web Services, Germany**
   * Amazon Redshift
   * Data plane
   * Storage and data management
